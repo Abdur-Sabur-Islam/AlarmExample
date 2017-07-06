@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\My Work\others Project\AlarmExample\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e5d505ee19d7052019d3223906d55c87f72a4389">
+        <dex dex="E:\My Work\others Project\AlarmExample\app\build\intermediates\pre-dexed\debug\instant-run_2d1717152f43630a4958c671ab62b21e7f0539ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="E:\My Work\others Project\AlarmExample\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_86007da07eae7db839694277868efce01ac74c97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\My Work\others Project\AlarmExample\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="620e29d0d4feb814344e982edccb22441c00b5a4">
+        <dex dex="E:\My Work\others Project\AlarmExample\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_3c020b63de6cd9b5730741e86055dd298175b0a3.jar" />
+    </item>
+
+</items>
